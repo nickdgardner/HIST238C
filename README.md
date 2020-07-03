@@ -3,9 +3,9 @@
 
 **Programming background:** None assumed, learned on a need-to-know basis for student projects. In preparation, students new to programming read through chapters 0 - 6 of Al Sweigart's beginning Python textbook [Automate the Boring Stuff](http://automatetheboringstuff.com/) during the first weeks of the term. 
 
-**Text data:** [Eighteench Century Collections Online](https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/). 
+**Text data:** [Eighteench Century Collections Online](https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/) (txt files available in data folder above).
 
-txt files available in data folder above. 
+**TSV data:** download from the [Grand Tour Explorer](https://grand-tour-explorer-2017.herokuapp.com/#/) developed by Giovanna Ceserani and Giorgio Caviglia. The Grand Tour Explorer is not yet published and you need a password to access it. It will be made publicly available soon.
 
 
 
