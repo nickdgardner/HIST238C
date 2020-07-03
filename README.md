@@ -1,5 +1,11 @@
 
-### Tutorials for HISTORY 238C "Virtual Italy: Methods for Historical Data Science", Winter 2020
+## Tutorials for HISTORY 238C "Virtual Italy: Methods for Historical Data Science", Winter 2020
+
+**Programming background:** None assumed, learned on a need-to-know basis for student projects. In preparation, students new to programming read through chapters 0 - 6 of Al Sweigart's beginning Python textbook [Automate the Boring Stuff](http://automatetheboringstuff.com/) during the first weeks of the term. 
+
+**Text data:** (Eighteench Century Collections Online)[https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/]. 
+
+
 
 [Week 4 - pandas intro](https://nbviewer.jupyter.org/github/nickdgardner/HIST238C/blob/master/tutorials/week4_pandas_intro.ipynb)
 
