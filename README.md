@@ -5,7 +5,7 @@
 
 **Text data:** [Eighteench Century Collections Online](https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/) (download .xml versions of the texts [here](https://umich.app.box.com/s/7dc9b3b0f859a6b36bc2/folder/3109725483) and .txt versions on course Canvas page).
 
-**TSV data:** download from the [Grand Tour Explorer](https://grand-tour-explorer-2017.herokuapp.com/#/), developed by Giovanna Ceserani and Giorgio Caviglia. The Grand Tour Explorer is not yet published and you need a password to access it. It will be made publicly available soon.
+**TSV data:** download from the [Grand Tour Explorer](https://grand-tour-explorer-2017.herokuapp.com/#/), developed by Giovanna Ceserani and Giorgio Caviglia. The Grand Tour Explorer is still in beta, and you currently need a password to access it.
 
 
 
