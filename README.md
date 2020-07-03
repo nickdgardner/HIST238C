@@ -1,5 +1,5 @@
 
-### Teaching materials for HISTORY 238C "Virtual Italy: Methods for Historical Data Science"
+### Tutorials for HISTORY 238C "Virtual Italy: Methods for Historical Data Science"
 
 [Week 4 - pandas intro](https://nbviewer.jupyter.org/github/nickdgardner/HIST238C/blob/master/tutorials/week4_pandas_intro.ipynb)
 
